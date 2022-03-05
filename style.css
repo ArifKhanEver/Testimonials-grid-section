@@ -119,7 +119,7 @@ p {
     background-color: var(--moderateViolet);
     background-image: url(images/bg-pattern-quotation.svg);
     background-repeat: no-repeat;
-    background-position: top right 1.5rem;
+    background-position: top right 6rem;
     color: hsl(65, 44%, 85%);
 }
 
